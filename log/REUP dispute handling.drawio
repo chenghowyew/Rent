@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T05:05:33.300Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="B5cPpQ4wIytTFtohZabg" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T07:09:10.981Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ABz24hgA5EaGPPQMNrfF" version="22.1.21" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Dispute handling" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="10" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Is there a dispute?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="90" width="100" height="80" as="geometry" />
         </mxCell>
@@ -19,9 +16,9 @@
         <mxCell id="jbOAAi3hwFv8AgqYMutM-4" value="No" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="600" y="115" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jbOAAi3hwFv8AgqYMutM-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+        <mxCell id="jbOAAi3hwFv8AgqYMutM-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="340" as="sourcePoint" />
+            <mxPoint x="440" y="50" as="sourcePoint" />
             <mxPoint x="440" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -173,6 +170,9 @@
         </mxCell>
         <mxCell id="jbOAAi3hwFv8AgqYMutM-66" value="In case of dispute, Deposit will be depleted at day rate rental. This incentivizes both parties to come to settlement&amp;nbsp;early.&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; min-height: 15px;&quot; class=&quot;p2&quot;&gt;&lt;br&gt;&lt;/p&gt;Question: Does this make it easier for scammer to get rid of their items by refusing to come to agreement, forcing the renter&#39;s hand to buy item at said price?&lt;br&gt;- This is where photos are important for functionality and arbitration.&lt;br&gt;&amp;nbsp;&lt;br&gt;This also highlights the importance of setting and agreeing the Deposit amount.&amp;nbsp;&lt;br&gt;This achieves things on 2 ends:&lt;br&gt;1. Renter and Renter coming to agreement in worst case scenario&lt;br&gt;2. Negotiations (on internal chat engine) means returning users, which can translate to higher traffic flow and hence, ad revenue." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="750" width="610" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TJOGVVRYHEbLn0Pwdq9O-1" value="Dispute Handling" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
