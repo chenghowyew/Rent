@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T08:22:57.749Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DzzXP8wFLurZhk9GAfH7" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T08:35:52.579Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="shDyOeE3lSXHnAoXsKPv" version="22.1.21" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1004" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,6 +146,24 @@
         </mxCell>
         <mxCell id="VSAg7D1v9ZxaxWrcPqsR-68" value="Deposit / Rental Rate / Period of loan are negotiable (fields in the Application) &lt;sup&gt;2&lt;/sup&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="1040" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-71" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="390" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-72" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="570" as="sourcePoint" />
+            <mxPoint x="390" y="391" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-73" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.47" y="969" as="sourcePoint" />
+            <mxPoint x="389" y="840" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
