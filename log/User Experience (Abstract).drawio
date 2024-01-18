@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T08:03:57.145Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JY6g61ozqrQUtJJlBXY-" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T08:22:57.749Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DzzXP8wFLurZhk9GAfH7" version="22.1.21" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1004" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,12 +87,12 @@
         <mxCell id="VSAg7D1v9ZxaxWrcPqsR-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-42" target="VSAg7D1v9ZxaxWrcPqsR-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-42">
+        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-42" target="VSAg7D1v9ZxaxWrcPqsR-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-42">
+        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-42" target="VSAg7D1v9ZxaxWrcPqsR-48">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="800" as="targetPoint" />
           </mxGeometry>
@@ -100,28 +100,28 @@
         <mxCell id="VSAg7D1v9ZxaxWrcPqsR-42" value="&lt;b&gt;&lt;u&gt;RETURN&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Meet or ship item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-44" target="VSAg7D1v9ZxaxWrcPqsR-46">
+        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-44" target="VSAg7D1v9ZxaxWrcPqsR-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-44" target="VSAg7D1v9ZxaxWrcPqsR-48">
+        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-44" target="VSAg7D1v9ZxaxWrcPqsR-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VSAg7D1v9ZxaxWrcPqsR-44" value="Dispute Handling&amp;nbsp;&lt;br&gt;(if any)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="760" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-46">
+        <mxCell id="VSAg7D1v9ZxaxWrcPqsR-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-46" target="VSAg7D1v9ZxaxWrcPqsR-61">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="650" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VSAg7D1v9ZxaxWrcPqsR-46" value="Approve to release (full) Deposit" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VSAg7D1v9ZxaxWrcPqsR-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-48" target="VSAg7D1v9ZxaxWrcPqsR-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VSAg7D1v9ZxaxWrcPqsR-48" value="Approve to release rental payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VSAg7D1v9ZxaxWrcPqsR-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VSAg7D1v9ZxaxWrcPqsR-52" target="VSAg7D1v9ZxaxWrcPqsR-29">
           <mxGeometry relative="1" as="geometry" />
@@ -136,10 +136,10 @@
           <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VSAg7D1v9ZxaxWrcPqsR-61" value="Receive rental payment (and item)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="950" width="120" height="80" as="geometry" />
+          <mxGeometry x="590" y="880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VSAg7D1v9ZxaxWrcPqsR-63" value="Receive Deposit less rental payment &lt;sup&gt;1&lt;/sup&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="950" width="120" height="80" as="geometry" />
+          <mxGeometry x="90" y="880" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VSAg7D1v9ZxaxWrcPqsR-67" value="Rental payment to be direct between users or through intermediary TBC &lt;sup&gt;1&lt;/sup&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="990" width="240" height="40" as="geometry" />
