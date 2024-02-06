@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T02:32:49.462Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="h4f6eAMrW6VIhJSuzbpo" version="22.1.21" type="github" pages="2">
-  <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
+<mxfile host="app.diagrams.net" modified="2024-02-06T02:33:37.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="rOoW0acdDthsw1IejoRz" version="22.1.21" type="github" pages="2">
+  <diagram name="User Experience Flow chart" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="902" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -168,7 +168,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="O3twfmZ418G-MfyTjov-" name="Page-2">
+  <diagram id="O3twfmZ418G-MfyTjov-" name="website navigation overview">
     <mxGraphModel dx="902" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
